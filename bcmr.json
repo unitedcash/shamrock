@@ -1,0 +1,29 @@
+{
+  "$schema": "https://cashtokens.org/bcmr-v2.schema.json",
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  },
+  "latestRevision": "2023-06-24T02:02:02.033Z",
+  "registryIdentity": {
+    "name": "bcmr for ShamrockSheriff",
+    "description": "self-published bcmr for ShamrockSheriff"
+  },
+  "identities": {
+    "a27e6b5faea599146e73dd1362c7f61a2190e927d40bf50a3b5da34fa94522b7": {
+      "2023-06-24T02:02:02.033Z": {
+        "name": "ShamrockSheriff",
+        "description": "Be united in cash",
+        "token": {
+          "category": "a27e6b5faea599146e73dd1362c7f61a2190e927d40bf50a3b5da34fa94522b7",
+          "symbol": "$SST"
+        },
+        "uris": {
+          "icon": "https://raw.githubusercontent.com/unitedcash/shamrock/main/SST.png",
+          "web": ""
+        }
+      }
+    }
+  }
+}
